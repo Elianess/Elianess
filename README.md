@@ -14,11 +14,11 @@
 <h1>
   Првиет
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  , это мой путь в ML, DL, AI и DS 
+  , это мой путь в ML.
 </h1>
 
-- :mortar_board: Я недавно закончил университет РТУ МИРЭА как специалист по машинному обучению и искуственному интеллекту и теперь начинаю свой путь в мире ML, DL, AI и DS.
-- :books: Знаю Python, основы SQL, C++ и C#. Изучаю математику и работу с данными, закладывая прочный фундамент для развития.
+- :mortar_board: Я недавно закончил университет РТУ МИРЭА как специалист по машинному обучению и искуственному интеллекту и теперь начинаю свой путь в мире ML.
+- :books: Знаю Python, SQL и основы C++. Изучаю математические принципы, которые необходимы для решения задач в ML.
 - :seedling: Стремлюсь моделировать процессы и находить разные взаимосвязи в данных, как ученый или исследователь.
 - :zap: В свободное время читаю технические статьи и прохожу онлайн-курсы, чтобы постоянно развиваться.
 - :chart_with_upwards_trend: Мой путь только начинается, но я полон энтузиазма и готов к новым вызовам! :muscle:
@@ -32,7 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="cpp" alt="cpp" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="csh" alt="csh" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="docker" alt="docekr" width="40" height="40"/>&nbsp  
 </div>
 
