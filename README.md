@@ -38,16 +38,18 @@
 ---
 
 ### :fire: Моя статстика:
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Elianess&theme=dark&background=000000" />
-  </a>
-  
+<div align="horizontal">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Elianess&show_icons=true&theme=codeSTACKr" />     
+</div>
+
+<div align="horizontal">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elianess&layout=compact&theme=vision-friendly-dark" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elianess&layout=compact&theme=codeSTACKr" /> 
   </a>
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elianess&theme=codeSTACKr" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elianess&theme=codeSTACKr" /> 
 </div>
 
 
