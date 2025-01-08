@@ -41,12 +41,13 @@
 <a href="https://github.com/Elianess/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Elianess&theme=codeSTACKr" />
 </a>
+
 <a href="https://github.com/Elianess/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elianess&layout=compact&langs_count=8&card_width=320&theme=codeSTACKr" />
 </a>
 
 &nbsp;<p><br>
-<img align="center" height=200 width=800 alt="Elianess Activity stats " src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elianess&theme=codeSTACKr" />     &nbsp;
+<img align="center" height=200 width=800 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elianess&theme=codeSTACKr" />     &nbsp;
 
 
 
