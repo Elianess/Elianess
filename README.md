@@ -27,9 +27,7 @@
 ### :fire: Моя статстика:
 <p><br>
 <a href="https://github.com/Elianess/convoychat">
-  <img align="center" height=200 width=800 src="https://github-readme-stats.vercel.app/api/top-langs?username=Elianess&layout=compact&langs_count=8&card_width=320&theme=codeSTACKr" />
-</a>
-&nbsp;<p><br>
+
 <img align="center" height=200 width=800 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elianess&theme=codeSTACKr" />     &nbsp;
 
 
